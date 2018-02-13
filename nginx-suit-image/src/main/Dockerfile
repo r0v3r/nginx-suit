@@ -6,7 +6,7 @@ RUN rm /etc/nginx/nginx.conf
 
 ADD nginx.conf /etc/nginx/
 
-ADD services.conf /etc/nginx/suit-conf/
+ADD suit-conf/*.conf /etc/nginx/suit-conf/
 
 WORKDIR /etc/nginx
 

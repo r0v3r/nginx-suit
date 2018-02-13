@@ -2,88 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d33a51-fa9b-4da9-ab4f-7de2b2d7d1d6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_27.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_27.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_27.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_27.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_10_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_10_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_10_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_10_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_10_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_10_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_10_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_10_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_10_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_14_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/MainController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/NginxSuitAppApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/src/test/java/com/foss/rover/agamenon/nginxsuit/app/NginxSuitAppApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/src/test/java/com/foss/rover/agamenon/nginxsuit/domain/NginxSuitDomainApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-image/nginx-suit-image.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-image/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-image/src/main/Dockerfile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-image/src/main/build-image.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-image/src/main/nginx.conf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-image/src/main/services.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/AppConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/PageController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/Ser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/DomainConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/model/GeneralReturnCode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/model/ProxyConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSignalService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSignalServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSingleNodeReverseProxyService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSingleNodeReverseProxyServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-front/nginx-suit-front.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nginx-suit-image/src/main/suit-conf/suit-console.conf" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/nginx-suit-app/pom.xml" afterPath="$PROJECT_DIR$/nginx-suit-app/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/MainController.java" afterPath="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/MainController.java" />
+      <change beforePath="$PROJECT_DIR$/nginx-suit-app/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/nginx-suit-app/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/nginx-suit-domain/pom.xml" afterPath="$PROJECT_DIR$/nginx-suit-domain/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/nginx-suit-image/src/main/Dockerfile" afterPath="$PROJECT_DIR$/nginx-suit-image/src/main/Dockerfile" />
+      <change beforePath="$PROJECT_DIR$/nginx-suit-image/src/main/nginx.conf" afterPath="$PROJECT_DIR$/nginx-suit-image/src/main/nginx.conf" />
+      <change beforePath="$PROJECT_DIR$/nginx-suit-image/src/main/services.conf" afterPath="$PROJECT_DIR$/nginx-suit-image/src/main/suit-conf/proxy.conf" />
     </list>
     <ignored path="$PROJECT_DIR$/nginx-suit-app/target/" />
     <ignored path="$PROJECT_DIR$/nginx-suit-domain/target/" />
     <ignored path="$PROJECT_DIR$/nginx-suit-image/target/" />
+    <ignored path="$PROJECT_DIR$/nginx-suit-front/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,59 +40,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nginx-suit-image/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-            <state />
-          </provider>
+      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/nginx.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="105">
+              <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/Dockerfile">
+      <file leaf-file-name="NginxSingleNodeReverseProxyService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSingleNodeReverseProxyService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="44">
+              <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build-image.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/build-image.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/MainController.java">
+      <file leaf-file-name="NginxSingleNodeReverseProxyServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSingleNodeReverseProxyServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <caret line="10" column="85" lean-forward="false" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/services.conf">
+      <file leaf-file-name="proxy.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/Ser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/MainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="11" column="67" lean-forward="false" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/PageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DomainConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/DomainConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,9 +147,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>int</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>GeneralReturnCode</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,11 +171,33 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/nginx-suit-image/src/main/nginx.conf" />
         <option value="$PROJECT_DIR$/nginx-suit-image/src/main/build-image.sh" />
-        <option value="$PROJECT_DIR$/nginx-suit-image/src/main/Dockerfile" />
-        <option value="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/MainController.java" />
         <option value="$PROJECT_DIR$/nginx-suit-image/src/main/services.conf" />
+        <option value="$PROJECT_DIR$/nginx-suit-app/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/DomainController.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/AppConfig.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/model/ServerConfig.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/model/GeneralReturnCode.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSignalService.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxConfigService.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxConfigServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxConfigServiceFileIOImpl.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/model/ProxyConfig.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-image/src/main/nginx.conf" />
+        <option value="$PROJECT_DIR$/nginx-suit-image/src/main/suit-conf/proxy.conf" />
+        <option value="$PROJECT_DIR$/nginx-suit-image/src/main/suit-conf/suit-console.conf" />
+        <option value="$PROJECT_DIR$/nginx-suit-image/src/main/Dockerfile" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/util/ProxyConfigFileHelper.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxProxyConfigService.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxProxyConfigServiceFileIOImpl.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSignalServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSingleNodeReverseProxyService.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/Ser.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/DomainConfig.java" />
+        <option value="$PROJECT_DIR$/proxy.conf" />
+        <option value="$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSingleNodeReverseProxyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/MainController.java" />
+        <option value="$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/PageController.java" />
       </list>
     </option>
   </component>
@@ -183,6 +206,16 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/nginx-suit-front/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="7">
@@ -243,40 +276,10 @@
             </path>
             <path>
               <item name="nginx-suit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nginx-suit-domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nginx-suit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nginx-suit-domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nginx-suit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nginx-suit-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="nginx-suit-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nginx-suit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nginx-suit-domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nginx-suit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nginx-suit-image" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nginx-suit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nginx-suit-image" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nginx-suit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nginx-suit-image" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -293,8 +296,23 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nginx-suit-front" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/nginx-suit-image/src/main/suit-conf" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.foss.rover.agamenon.nginxsuit.domain.service" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -482,15 +500,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518490247764</updated>
-      <workItem from="1518490252682" duration="2207000" />
+      <workItem from="1518490252682" duration="16378000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2207000" />
+    <option name="totallyTimeSpent" value="16378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -509,13 +528,14 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3300866" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3300866" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1615938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -523,7 +543,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -549,46 +568,240 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/nginx.conf">
+    <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/build-image.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="56" column="51" lean-forward="true" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="51" />
+        <state relative-caret-position="22">
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/DomainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/NginxSuitAppApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSignalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/model/GeneralReturnCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/model/ProxyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/suit-conf/proxy.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="242">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/build-image.sh">
+    <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/suit-conf/suit-console.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        <state relative-caret-position="154">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/services.conf">
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/util/ProxyConfigFileHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxProxyConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxProxyConfigServiceFileIOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSignalServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/DomainConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/Ser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-image/src/main/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSingleNodeReverseProxyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-front/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-front/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="128">
+          <caret line="11" column="67" lean-forward="false" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/java/com/foss/rover/agamenon/nginxsuit/app/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-app/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx-suit-domain/src/main/java/com/foss/rover/agamenon/nginxsuit/domain/service/NginxSingleNodeReverseProxyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="85" lean-forward="false" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -610,7 +823,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -646,7 +859,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>nginx-suit-app</last-edited>
+          <last-edited>nginx-suit-front</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -671,6 +884,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

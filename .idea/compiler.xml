@@ -14,6 +14,7 @@
     <bytecodeTargetLevel>
       <module name="nginx-suit-app" target="1.8" />
       <module name="nginx-suit-domain" target="1.8" />
+      <module name="nginx-suit-front" target="1.5" />
       <module name="nginx-suit-image" target="1.5" />
     </bytecodeTargetLevel>
   </component>

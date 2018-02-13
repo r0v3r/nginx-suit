@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/nginx-suit-app/nginx-suit-app.iml" filepath="$PROJECT_DIR$/nginx-suit-app/nginx-suit-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/nginx-suit-domain/nginx-suit-domain.iml" filepath="$PROJECT_DIR$/nginx-suit-domain/nginx-suit-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nginx-suit-front/nginx-suit-front.iml" filepath="$PROJECT_DIR$/nginx-suit-front/nginx-suit-front.iml" />
       <module fileurl="file://$PROJECT_DIR$/nginx-suit-image/nginx-suit-image.iml" filepath="$PROJECT_DIR$/nginx-suit-image/nginx-suit-image.iml" />
     </modules>
   </component>
