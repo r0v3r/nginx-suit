@@ -6,9 +6,10 @@ import java.io.*;
 
 @Service
 public class NginxSingleNodeReverseProxyServiceImpl implements NginxSingleNodeReverseProxyService {
+    static final String PROXY_CONF_FILE = "/etc/nginx/suit-conf/proxy.conf";
     @Override
     public String getConfig() {
-        try (BufferedReader reader = new BufferedReader(new FileReader("proxy.conf"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader(PROXY_CONF_FILE))) {
             StringBuilder builder = new StringBuilder();
             String line = reader.readLine();
             while(line != null ){
@@ -28,7 +29,7 @@ public class NginxSingleNodeReverseProxyServiceImpl implements NginxSingleNodeRe
     @Override
     public void updateConfig(String config) {
         try {
-            PrintWriter writer = new PrintWriter(new FileWriter("proxy.conf"));
+            PrintWriter writer = new PrintWriter(new FileWriter(PROXY_CONF_FILE));
             writer.write(config);
             writer.close();
         } catch (IOException e) {

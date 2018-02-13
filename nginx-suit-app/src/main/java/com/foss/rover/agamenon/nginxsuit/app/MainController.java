@@ -11,19 +11,19 @@ public class MainController {
     @Autowired
     private NginxSingleNodeReverseProxyService reverseProxyService;
 
-    @RequestMapping("/hello")
+    @RequestMapping("/nginx-suit/hello")
     public String hello() {
         return "hello";
     }
 
-    @RequestMapping("/write")
+    @RequestMapping("/nginx-suit/write")
     public String write(@RequestParam(value = "config")String config){
 
         reverseProxyService.updateConfig(config);
         return config;
     }
 
-    @RequestMapping("/read")
+    @RequestMapping("/nginx-suit/read")
     public String read(){
 
         return reverseProxyService.getConfig();

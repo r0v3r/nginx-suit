@@ -20,7 +20,7 @@ export default {
     getConfig: function(){
       // this.config = "aha";
       let $component = this;
-      axios.get('/read').then(function (response) {
+      axios.get('/nginx-suit/read').then(function (response) {
         $component.config  = response.data;
       })
     }

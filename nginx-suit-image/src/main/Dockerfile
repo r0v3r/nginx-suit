@@ -8,6 +8,10 @@ ADD nginx.conf /etc/nginx/
 
 ADD suit-conf/*.conf /etc/nginx/suit-conf/
 
+ADD app-dist/*.jar /nginx-suit/app.jar
+
 WORKDIR /etc/nginx
 
-CMD nginx -g 'daemon off;'
+CMD service nginx start
+
+CMD java -jar /nginx-suit/app.jar
